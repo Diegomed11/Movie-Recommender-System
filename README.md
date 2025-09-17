@@ -16,8 +16,5 @@ Este es un sistema de recomendación de contenido que sugiere películas similar
 - **Scikit-learn:** Para la implementación del modelo TF-IDF y la similitud del coseno.
 - **Requests:** Para realizar las llamadas a la API de TMDb.
 
-## ¿Cómo ejecutarlo?
 
-1. Clona este repositorio:
-   ```bash
-   git clone [https://github.com/tu-usuario/Movie-Recommender-System.git](https://github.com/tu-usuario/Movie-Recommender-System.git)
+
